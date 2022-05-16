@@ -1,1 +1,1 @@
-# recipes
+A basic HTML website to apply the concepts and lessons learned so far. 
